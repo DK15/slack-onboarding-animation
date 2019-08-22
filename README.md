@@ -1,6 +1,6 @@
 # onboarding_animation
 
-A new Flutter application.
+Recreated onboarding animation of Slack app showcasing how the animation apis can be used to achieve the desired behavior
 
 ## Getting Started
 
