@@ -1,6 +1,8 @@
 # onboarding_animation
 
-Recreated onboarding animation of Slack app showcasing how the animation apis can be used to achieve the desired behavior
+Recreated onboarding animation of Slack app showcasing how the animation apis can be used to achieve the desired behavior.
+
+I wrote about this here : https://medium.com/flutter-community/recreating-slack-apps-on-boarding-animation-with-flutter-ec226ea19403
 
 ## Getting Started
 
